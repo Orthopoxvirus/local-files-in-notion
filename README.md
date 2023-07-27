@@ -2,7 +2,7 @@
 Add links to local files in Notion on Windows and Chrome
 
 ## Summary
-One thing I really miss in Notion is links to the local filesystem. And I don't want to spend some 20 bucks on a third party software to achieve this. So I puzzled something together. Feel free to use, modify and add to this, so more people can use it.
+One thing I really miss in Notion is links to the local filesystem. So I puzzled something together. Feel free to use, modify and add to this, so more people can use it.
 
 Bear in mind: This only works if you use Notion solo and on one PC or if every user/PC shares the same datastructure.
 
