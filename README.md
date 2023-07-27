@@ -25,3 +25,6 @@ Don't forget to allow ifarmess with the `X-Frame-Options` if you want to embed t
 ## Notion
 Embed the deployed `file.html` if you want.
 You can now use generated links like `https://yourdomain.com/file.html?f=C:/`
+
+## PHP
+There is a PHP version available, which does the same thing. I like it because it handles the requests a lot faster with less flashing windows.
